@@ -33,5 +33,5 @@ O modelo final apresentou resultados sólidos:
 * **Alerta de Risco**: Clientes que utilizam faturas sem papel e métodos de pagamento eletrônico tendem a ter maior rotatividade, exigindo atenção especial do time de retenção.
 
 ## ✒️ Autor
-* **Marcelo** - [Seu Perfil no LinkedIn](https://www.linkedin.com/in/marcelodasilvacamilo/)
+* **Marcelo** - [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marcelodasilvacamilo/)
 * Formação: Cientista de Dados - Oracle One (Alura)
